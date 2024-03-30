@@ -1,1 +1,8 @@
 # Airbnb_listing_price_prediction
+
+## Project Description
+As a global leader in the online marketplace for short-term rentals, Airbnb has established a vast ecosystem where hosts and travellers come together. One of the primary challenges for hosts is to set the optimal price for their properties, ensuring they stay competitive while still achieving profitability. Unlike hotels, particularly those under larger organisations with established pricing structures, Airbnb hosts typically set their prices independently. The primary objective of this research is to evaluate the ability to predict optimal listing prices for Airbnb properties along the East Coast of Australia by analysing various features, thereby gaining insights into the factors that influence pricing. In light of this, our data analytics team set out to create a predictive model utilising advanced statistical learning methods. This model aims to accurately predict the nightly rates for Airbnb listings, focusing particularly on properties situated on Australia’s Eastern Seaboard. Beyond being a valuable tool for both prospective and existing hosts, this model serves as a strategic asset for Airbnb, enabling enhanced profitability and a deeper understanding of market trends. Throughout our research, we explored numerous modelling techniques. The most effective method we employed was the Stacking Model, which produced a validation Root Mean Square Error (RMSE) of 124.0211. This value highlights the model’s accuracy and provides insights into its dependability.
+
+## How to run this project
+1. Unzip the train.csv and test.csv from the data folder
+2. Run the code.ipynb
